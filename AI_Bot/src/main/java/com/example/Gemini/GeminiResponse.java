@@ -1,4 +1,4 @@
-package com.example.GPT;
+package com.example.Gemini;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.List;

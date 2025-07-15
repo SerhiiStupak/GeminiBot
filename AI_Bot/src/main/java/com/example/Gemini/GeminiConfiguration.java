@@ -1,4 +1,4 @@
-package com.example.GPT;
+package com.example.Gemini;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.web.client.RestTemplateBuilder;
